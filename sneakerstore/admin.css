@@ -1,0 +1,28 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-color: rgb(82, 27, 27);
+}
+table{
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: rgb(216, 186, 17);
+}
+th{
+    border: 1px solid #070707;
+    padding: 12px;
+    background-color:  #000000c7;
+    color: rgb(194, 93, 93);
+}
+td{
+    border: 0.5px solid #111111;
+}
+h2{
+    font-size: 28px;
+    color: #e60909;
+    text-align: center;
+}
